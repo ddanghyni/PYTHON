@@ -10,4 +10,4 @@ for x in range(score, 101, 1):
     elif x >= 60:
         print("D", end = " ")
     else:
-        print("F", end = "")
+        print("F", end = " ")
