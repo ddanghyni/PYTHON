@@ -9,4 +9,4 @@ for i in arr:
     if i % 5 == 0:
         times_5 += 1
 
-print(times_3, times_5
+print(times_3, times_5)
