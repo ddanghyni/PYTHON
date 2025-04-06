@@ -1,4 +1,4 @@
-arr = list(input())
+arr = list(input().split())
 arr.reverse()
 for i in arr:
     print(i, end="")
